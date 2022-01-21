@@ -16,4 +16,4 @@ function App() {
 }
 
 export default withAuthenticator(App);
-//trying node 14 override
+//remove amplify --version from yml
